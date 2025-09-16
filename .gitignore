@@ -1,0 +1,29 @@
+# Ruby
+*.gem
+*.rbc
+/.config
+/.yardoc
+/_yardoc
+/.bundle
+/vendor/bundle
+/log
+/tmp
+/.DS_Store
+
+# RSpec / tests
+/coverage
+/.rspec_status
+
+# IDE / éditeurs
+*.swp
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS
+.DS_Store
+
+# Node modules si jamais utilisés
+/node_modules/
